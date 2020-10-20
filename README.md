@@ -1,12 +1,14 @@
 # NotePadWithPy
 
 Basic Notepad which is created with python and tkinter
-it has basic functionality for the time
+It has basic functionality for the time
+
 such as:
-    1.Cut
-    2.Copy
-    3.Paste
-    4.Save as file
-    5.Open file from
-    
+1.Cut
+2.Copy
+3.Paste
+4.Save as file
+5.Open file from
+
+
 This is the basic version of Notepad.
